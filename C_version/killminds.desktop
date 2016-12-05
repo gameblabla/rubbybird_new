@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=generic
+Icon=harbour-rubbybird
+Exec=harbour-rubbybird
+Name=Rubby Bird
